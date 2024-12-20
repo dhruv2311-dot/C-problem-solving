@@ -22,3 +22,17 @@ int main() {
     }
     return 0;
 }
+
+// void sortArray(int arr[],int size){
+//     sort(arr,arr+size);
+// }
+// int main(){
+//     int arr[]={4, 2, 8, 5, 1 };
+//     int size=sizeof(arr)/sizeof(arr[0]);
+//     sortArray(arr,size);
+//     for(int i=0;i<size;i++){
+//         cout<<arr[i]<<endl;
+//     }
+//     cout<<endl;
+//     return 0;
+// }
